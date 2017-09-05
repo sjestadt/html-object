@@ -1,11 +1,11 @@
 {
-	"name": "anahkiasen/html-object",
+	"name": "sjestadt/html-object",
 	"description": "A set of classes to create and manipulate HTML objects abstractions",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Anahkiasen",
-			"email": "ehtnam6@gmail.com"
+			"name": "sj",
+			"email": "gmail.com"
 		}
 	],
 	"require": {
