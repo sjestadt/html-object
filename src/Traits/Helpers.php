@@ -190,7 +190,7 @@ class Helpers
             }
 
             // Check for JSON attributes
-            if (in_array(mb_substr($value, 0, 1), array('{', '['), true)) {
+            if (in_array(mb_substr($value, 0, 2), array('{"', '["'), true)) {
                 $html[] = $key."='".$value."'";
                 continue;
             }
